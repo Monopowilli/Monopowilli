@@ -21,10 +21,10 @@ I love exploring new blockchain technologies and working on security features th
 Feel free to explore my repositories, open an issue, or contribute to my projects. Let's connect and collaborate! 🙌
 
 
-![License](https://img.shields.io/badge/License-MIT-green)
-![Contributors](https://img.shields.io/github/contributors/Monopowilli/Honeypot-Guard)  
-![Solidity](https://img.shields.io/badge/Solidity-v0.8-blue)  
-![Security Audit](https://img.shields.io/badge/Security_Audited-Yes-green)  
+![License](https://img.shields.io/badge/License-MIT-green) 
+![Contributors](https://img.shields.io/github/contributors/Monopowilli/Honeypot-Guard) 
+![Solidity](https://img.shields.io/badge/Solidity-v0.8-blue) 
+![Security Audit](https://img.shields.io/badge/Security_Audited-Yes-green) 
 ![Solana](https://img.shields.io/badge/Solana-Active-4CAF50)
 
-
+  
