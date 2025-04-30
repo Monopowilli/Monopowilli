@@ -11,7 +11,7 @@ I'm a blockchain developer specializing in Solana, crypto security, and honeypot
 Currently building secure decentralized applications and working on improving crypto security protocols.
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com]
+- Email: [micheal-berger@gmail.com]
 
 ## 🚀 Fun Fact
 I love exploring new blockchain technologies and working on security features that enhance the decentralized ecosystem!
